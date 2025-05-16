@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.txt
+!packages.txt
+!requirements.txt
+venv/
+.env
